@@ -1,3 +1,8 @@
+Version 0.0.5
+Added - Scene "Grid_A" to demonstrate B1-3 and C1-4 Blocks
+Added - B1-3 and C1-4 Blocks that are disabled 
+Changed - Unity Version 2022.3.47f1.
+
 Version 0.0.4
 Added - Scence "Fork_A" and "Fork_B" to demonstrate "A1" and "A2" blocks
 Added - Dummy Goal Marker
@@ -9,10 +14,7 @@ Version 0.0.3
 Added - Scence "MainMenu" with Level Load Button and Random Seed Setter
 Added - "A1" - "A2" Blocks that are disabled depending on Random Value
 Changed - C64 Font updated with smaller Texture Atlas to work on Git 
-
-Known Issues - On long scrolling the text offset is wrong and at some point the newly printed text is not 
-visible anymore
-
+ 
 Version 0.0.2
 
 Added - Scence "Print10" a C64 mockup to showcase the "10 Print .." functionality
